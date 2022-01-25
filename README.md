@@ -7,3 +7,6 @@
  1. Your discord token (be cautious)
  2. Your Imgur API key, or an API key from any similar image upload site that converts images to links.
  3. The ID of the channel you want to post messages in, (enable developer view, right click on the text message channel to the left of any discord server, click "copy ID") assuming image perms.
+
+***IMPORTANT*** this requires your discord token, which basically is like a username/password for an account. Make sure you trust this code, look it over if you are unsure. 
+Use at your own risk. The code may not be fully abiding by discord TOS, I cannot guarantee anything.
